@@ -1,16 +1,12 @@
-### Hi there 👋
+## Hi there 👋 I'm Fraz
 
-<!--
-**LeadCoding/LeadCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Software Engineer at [@Google](https://github.com/google)
+- 📹 [YouTuber](https://www.youtube.com/c/FrazMohammad) with 130k+ subscribers
+- 🏢 Ex Software Engineer at [@Cure.fit](https://github.com/curefit)
+- 🏢 Former SDE Intern at [@SAP Labs](https://github.com/curefit)
+- 👨‍🏫 Ex Educator [@Codechef](https://www.codechef.com/)
+- 👨‍🏫 Ex Educator [@Unacademy](https://unacademy.com/)
+- 💬 Feel free to contact me at [leadcoding98@gmail.com](mailto:leadcoding98@gmail.com)
+- 😄 Pronouns: He/Him
