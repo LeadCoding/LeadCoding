@@ -2,7 +2,7 @@
 
 ### Social links:
 </a>
-<a href="https://www.youtube.com/channel/LeadCodingbyfraz">
+<a href="https://www.youtube.com/c/LeadCodingbyFRAZ">
   <kbd>
   <img align="centre" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
 </a>
