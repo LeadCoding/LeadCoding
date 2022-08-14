@@ -2,24 +2,20 @@
 
 ### Social links:
 </a>
-<a href="https://www.youtube.com/c/LeadCodingbyFRAZ">
-  <kbd>
-  <img align="centre" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
+<a href="https://www.youtube.com/c/LeadCodingbyFRAZ" target="blank">
+  <img align="center" src="https://www.freepnglogos.com/uploads/youtube-play-red-logo-png-transparent-background-6.png" alt="frazmohammad" height="40" width="50" />
 </a>
-
-<a href="https://linkedin.com/in/frazmohammad">
-  <kbd>
-  <img align="centre" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/frazmohammad" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="frazmohammad" height="40" width="40" />
 </a>
-
-<a href="https://instagram.com/frazmohammad">
-  <kbd>
-  <img align="centre" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
+&nbsp;&nbsp;
+<a href="https://instagram.com/frazmohammad" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frazmohammad" height="40" width="40" />
 </a>
-
-<a href="https://t.me/LeadCoding">
-  <kbd>
-  <img align="centre" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />
+&nbsp;&nbsp;
+<a href="https://t.me/LeadCoding" target="blank">
+  <img align="center" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" alt="frazmohammad" height="40" width="40" />
 </a>
 
 <br/>
